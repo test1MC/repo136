@@ -5,7 +5,7 @@
 #################################################################################
 
 /Output
-/Analyzer
+#Analyzer
 /FileSync
 /Project/Users
 /.svn
